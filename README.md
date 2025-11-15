@@ -1,2 +1,1 @@
-# wallify
-
+Wallify transforms your desktop into a dynamic music experience by automatically updating your wallpaper to the album art of your currently playing Spotify song. Seamlessly integrates with Spotify to keep your background in sync with your music—fresh, immersive, and effortless.

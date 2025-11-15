@@ -1,2 +1,2 @@
-# wallify-test
-test
+# wallify
+
